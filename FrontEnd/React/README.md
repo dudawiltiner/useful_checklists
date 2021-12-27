@@ -1,4 +1,4 @@
-# CheckList React Redux
+# ✔️ CheckList React Redux
 
 *Antes de começar*
 - [ ] pensar como será o formato do seu estado global
