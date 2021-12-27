@@ -1,6 +1,6 @@
 # CheckList UX Design
 
-*Antes*
+## Antes
 - [ ] Relembrar as 5 funções para ter uma boa usabilidade:
 
 1. Aprendizagem
@@ -9,7 +9,7 @@
 4. Prevenção de erros
 5. Satisfação
 
-### Para conseguir atender as 5 funções, você deve seguir as 10 heurísticas de Nielsen.
+## Para conseguir atender as 5 funções, você deve seguir as 10 heurísticas de Nielsen.
 
 *1- Mantenha o status visível:*
 - [ ] "Você precisa informar seu usuário sobre o que está acontecendo, dizer para onde ele está indo, como está indo ou o que vem depois."
