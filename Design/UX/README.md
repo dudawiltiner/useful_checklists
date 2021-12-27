@@ -1,4 +1,4 @@
-# CheckList UX Design
+# ✔️ CheckList UX Design
 
 ## Antes
 - [ ] Relembrar as 5 funções para ter uma boa usabilidade:
