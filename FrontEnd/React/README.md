@@ -6,9 +6,19 @@
 
 *Instalando dependências e criando app*
 Crie uma pasta, abra ela no terminal e rode os seguintes comandos em sequência:
-- [ ] ```javascript npx create-react-app my-app-redux```
-- [ ] ```javascript npm install --save redux react-redux```
-- [ ] ```javascript npm install```
+
+- [ ] Criar aplicativo
+```javascript 
+    npx create-react-app my-app-redux
+```
+- [ ] Instalar as depenências dev do Redux para React
+```javascript 
+     npm install --save redux react-redux
+```
+- [ ] Instalar as demais denpendências, caso tenha.
+```javascript 
+    npm install
+```
 
 *Criar dentro do diretório src:*
 - [ ] diretório actions;
