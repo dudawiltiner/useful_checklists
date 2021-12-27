@@ -37,8 +37,7 @@
 - [ ] "As telas do seu produto precisam ser simples e conter somente o que o usuário realmente precisa saber ou fazer. Quanto mais informação desnecessária, maiores são as chances das pessoas se perderem e não conseguirem cumprir com o objetivo delas. Lembra da história da balança? É por aí."
 
 *9- Ajude a reconhecer, diagnosticar e consertar erros:*
-- [ ] criar os actionTypes
-- [ ] criar as actions necessárias
+- [ ] "Mesmo com todo o cuidado, seu usuário pode encontrar obstáculos para cumprir sua tarefa usando seu produto. Então, é importante que as mensagens de erro sejam claras, de maneira que as pessoas consigam consertar rapidamente o erro cometido e, assim, seguir adiante."
 
 *10- Documentação e ajuda:*
 - [ ] "O ideal é que tudo em seu site ou aplicativo possa ser feito de forma bem intuitiva, mas em alguns casos é preciso oferecer informação ou ajuda para seus usuários. Isso amenizará qualquer impacto que uma dúvida possa ter quando ele pretende concluir alguma tarefa."
